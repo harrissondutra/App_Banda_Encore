@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Banda Encore</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="txt_logout">Sair</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Fotos</string>
+    <string name="menu_slideshow">Vídeos</string>
+    <string name="txt_btn_login">Entrar</string>
+    <string name="txt_edit_login">Digite seu email</string>
+    <string name="txt_edit_password">Insira a senha</string>
+    <string name="txt_forgot_password">Esqueci minha senha</string>
+    <string name="txt_register">Não tem cadastro ainda? </string>
+    <string name="txt_google_signin">Google </string>
+    <string name="txt_btn_register">Cadastre-se </string>
+    <string name="txt_edit_register_name">Nome </string>
+    <string name="txt_edit_register_mail">Email </string>
+
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <string name="facebook_application_id" translatable="false">YOUR_APP_ID</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fbYOUR_APP_ID</string>
+
+
+</resources>

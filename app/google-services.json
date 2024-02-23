@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "632299174710",
+    "firebase_url": "https://encore-38b75-default-rtdb.firebaseio.com",
+    "project_id": "encore-38b75",
+    "storage_bucket": "encore-38b75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632299174710:android:8147ad311e4fcfdacc5197",
+        "android_client_info": {
+          "package_name": "com.harrisson.bandaencore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632299174710-it9o9hdhr7kbcosp26jk5ev7r64r0cc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARlZwunO4HVG_asAVjgEKZ3gxT-XG-ZOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632299174710-it9o9hdhr7kbcosp26jk5ev7r64r0cc5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "632299174710-8kgc12hgu6v29jkc6r7p01um8crb8pgc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.encore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
